@@ -1,6 +1,5 @@
 # Reboot-23
-Illinois Reboot
+Illinois Reboot - my first repository
+Just learning the basics
 
-## heading
-
-body
+body text goes here
